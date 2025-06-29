@@ -1,6 +1,7 @@
 from collections import Counter
 
-#s="qwertyuiopasdfghjklzxcvbnm"
+#link https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true
+
 s = input()
 conteo_ = 0
 conteo = Counter(s)
